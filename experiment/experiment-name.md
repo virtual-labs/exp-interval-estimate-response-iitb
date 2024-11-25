@@ -1,1 +1,1 @@
-## Experiment name
+## 3C Regression: Interval estimate mean response
